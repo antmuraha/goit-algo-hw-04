@@ -16,6 +16,8 @@ eggs/
 .eggs/
 lib/
 lib64/
+lib64
+share/
 parts/
 sdist/
 var/
@@ -135,6 +137,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+bin/
+pyvenv.cfg
 
 # Spyder project settings
 .spyderproject
